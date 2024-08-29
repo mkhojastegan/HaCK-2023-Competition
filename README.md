@@ -3,6 +3,8 @@ This repository includes the website and Arduino project for the 2023 HaCK compe
 
 All physical and structural tests were passed, and the website is fully functional, including information on live data, our process, and team structure.
 
+For my part, I built and tested the Arduino project file and modified the website slightly to accomodate live data transfer via Wi-Fi. The Arduino file was tested against dozens of unit and integration tests along the main system, including tests with real world applications using each sensor.
+
 # Building
 ### Arduino
 The Arduino project is compatible with Arduino IDE 2.2.1 and newer. Ensure you have the following compatible sensors and items:
